@@ -104,5 +104,10 @@ p {
 }
 
 a {
- text-decoration: none;    
+ text-decoration: none;  
+ color: white;  
+}
+
+a span {
+    color: #ffcc00;
 }
