@@ -1,4 +1,4 @@
-const serverIP = 'BlueHubModded.aternos.me';
+const serverIP = 'lizardfish.aternos.host:57741';
 
 
 async function fetchServerStatus() {
